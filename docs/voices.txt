@@ -1,9 +1,9 @@
 ingame use	sounds like	source
 
 normal mons	og amogus	sandwichface
-??		sneeze		doom
-??		mogus		matthias
-??		amoogus		atma
-??		AMOGOOSE	some meme
-??		AMONGUS		some meme
+castform	sneeze		doom
+shedinja	mogus		matthias
+reli/wailord	amoogus		atma
+starters	AMOGOOSE	some meme
+legendaries	AMONGUS		some meme
 regis		falgus		sandwichface
