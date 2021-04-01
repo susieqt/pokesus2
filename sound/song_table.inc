@@ -361,120 +361,120 @@ gSongTable:: @ 86B49F0
 	song mus_gsc_pewter, 0, 0
 	song mus_c_vs_legend_beast, 0, 0
 	song mus_route101, 0, 0
-	song mus_route110, 0, 0
-	song mus_route120, 0, 0
-	song mus_petalburg, 0, 0
-	song mus_oldale, 0, 0
-	song mus_gym, 0, 0
-	song mus_surf, 0, 0
-	song mus_petalburg_woods, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
 	song mus_level_up, 2, 2
 	song mus_heal, 2, 2
 	song mus_obtain_badge, 2, 2
 	song mus_obtain_item, 2, 2
 	song mus_evolved, 2, 2
 	song mus_obtain_tmhm, 2, 2
-	song mus_lilycove_museum, 0, 0
-	song mus_route122, 0, 0
-	song mus_oceanic_museum, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
 	song mus_evolution_intro, 2, 2
-	song mus_evolution, 0, 0
+	song mus_route101, 0, 0
 	song mus_move_deleted, 2, 2
-	song mus_encounter_girl, 0, 0
-	song mus_encounter_male, 0, 0
-	song mus_abandoned_ship, 0, 0
-	song mus_fortree, 0, 0
-	song mus_birch_lab, 0, 0
-	song mus_b_tower_rs, 0, 0
-	song mus_encounter_swimmer, 0, 0
-	song mus_cave_of_origin, 0, 0
+	song mus_encounter_suspicious, 0, 0
+	song mus_encounter_suspicious, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_encounter_suspicious, 0, 0
+	song mus_route101, 0, 0
 	song mus_obtain_berry, 2, 2
 	song mus_awaken_legend, 2, 2
 	song mus_slots_jackpot, 2, 2
 	song mus_slots_win, 2, 2
 	song mus_too_bad, 2, 2
-	song mus_roulette, 0, 0
-	song mus_link_contest_p1, 0, 0
-	song mus_link_contest_p2, 0, 0
-	song mus_link_contest_p3, 0, 0
-	song mus_link_contest_p4, 0, 0
-	song mus_encounter_rich, 0, 0
-	song mus_verdanturf, 0, 0
-	song mus_rustboro, 0, 0
-	song mus_poke_center, 0, 0
-	song mus_route104, 0, 0
-	song mus_route119, 0, 0
-	song mus_cycling, 0, 0
-	song mus_poke_mart, 0, 0
-	song mus_littleroot, 0, 0
-	song mus_mt_chimney, 0, 0
-	song mus_encounter_female, 0, 0
-	song mus_lilycove, 0, 0
-	song mus_route111, 0, 0
-	song mus_help, 0, 0
-	song mus_underwater, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_encounter_suspicious, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_encounter_suspicious, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
 	song mus_victory_trainer, 0, 0
 	song mus_title, 0, 0
 	song mus_intro, 0, 0
-	song mus_encounter_may, 0, 0
-	song mus_encounter_intense, 0, 0
-	song mus_encounter_cool, 0, 0
-	song mus_route113, 0, 0
-	song mus_encounter_aqua, 0, 0
-	song mus_follow_me, 0, 0
-	song mus_encounter_brendan, 0, 0
-	song mus_ever_grande, 0, 0
 	song mus_encounter_suspicious, 0, 0
-	song mus_victory_aqua_magma, 0, 0
-	song mus_cable_car, 0, 0
-	song mus_game_corner, 0, 0
-	song mus_dewford, 0, 0
-	song mus_safari_zone, 0, 0
-	song mus_victory_road, 0, 0
-	song mus_aqua_magma_hideout, 0, 0
-	song mus_sailing, 0, 0
-	song mus_mt_pyre, 0, 0
-	song mus_slateport, 0, 0
-	song mus_mt_pyre_exterior, 0, 0
-	song mus_school, 0, 0
-	song mus_hall_of_fame, 0, 0
-	song mus_fallarbor, 0, 0
-	song mus_sealed_chamber, 0, 0
+	song mus_encounter_suspicious, 0, 0
+	song mus_encounter_suspicious, 0, 0
+	song mus_route101, 0, 0
+	song mus_encounter_suspicious, 0, 0
+	song mus_route101, 0, 0
+	song mus_encounter_suspicious, 0, 0
+	song mus_route101, 0, 0
+	song mus_encounter_suspicious, 0, 0
+	song mus_encounter_suspicious, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
 	song mus_contest_winner, 0, 0
-	song mus_contest, 0, 0
-	song mus_encounter_magma, 0, 0
+	song mus_route101, 0, 0
+	song mus_encounter_suspicious, 0, 0
 	song mus_intro_battle, 0, 0
 	song mus_abnormal_weather, 0, 0
 	song mus_weather_groudon, 0, 0
-	song mus_sootopolis, 0, 0
+	song mus_route101, 0, 0
 	song mus_contest_results, 0, 0
-	song mus_hall_of_fame_room, 0, 0
-	song mus_trick_house, 0, 0
-	song mus_encounter_twins, 0, 0
-	song mus_encounter_elite_four, 0, 0
-	song mus_encounter_hiker, 0, 0
-	song mus_contest_lobby, 0, 0
-	song mus_encounter_interviewer, 0, 0
-	song mus_encounter_champion, 0, 0
-	song mus_credits, 0, 0
-	song mus_end, 0, 0
-	song mus_b_frontier, 0, 0
-	song mus_b_arena, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_encounter_suspicious, 0, 0
+	song mus_encounter_suspicious, 0, 0
+	song mus_encounter_suspicious, 0, 0
+	song mus_route101, 0, 0
+	song mus_encounter_suspicious, 0, 0
+	song mus_encounter_suspicious, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
 	song mus_obtain_b_points, 2, 2
 	song mus_register_match_call, 2, 2
-	song mus_b_pyramid, 0, 0
-	song mus_b_pyramid_top, 0, 0
-	song mus_b_palace, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
 	song mus_rayquaza_appears, 0, 0
-	song mus_b_tower, 0, 0
+	song mus_route101, 0, 0
 	song mus_obtain_symbol, 2, 2
-	song mus_b_dome, 0, 0
-	song mus_b_pike, 0, 0
-	song mus_b_factory, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
+	song mus_route101, 0, 0
 	song mus_vs_rayquaza, 0, 0
 	song mus_vs_frontier_brain, 0, 0
-	song mus_vs_mew, 0, 0
-	song mus_b_dome_lobby, 0, 0
+	song mus_c_vs_legend_beast, 0, 0
+	song mus_route101, 0, 0
 	song mus_vs_wild, 0, 0
 	song mus_vs_aqua_magma, 0, 0
 	song mus_vs_trainer, 0, 0

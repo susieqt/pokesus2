@@ -1090,3 +1090,51 @@ DirectSoundWaveData_sd90_classical_whistle::
 	.align 2
 DirectSoundWaveData_sd90_enhanced_delay_shaku::
 	.incbin "sound/direct_sound_samples/sd90_enhanced_delay_shaku.bin"
+
+	.align 2
+DirectSoundWaveData_sc88_26_steel_string_guitar::
+	.incbin "sound/direct_sound_samples/sc88_26_steel_string_guitar.bin"
+	
+	.align 2
+DirectSoundWaveData_sc88_55_orchhit60::
+	.incbin "sound/direct_sound_samples/sc88_55_orchhit60.bin"
+	
+	.align 2
+DirectSoundWaveData_sc88_55_orchhit72::
+	.incbin "sound/direct_sound_samples/sc88_55_orchhit72.bin"
+	
+	.align 2
+DirectSoundWaveData_SMWbongo71::
+	.incbin "sound/direct_sound_samples/SMWbongo71.bin"
+	
+	.align 2
+DirectSoundWaveData_SMWsteeldrum52::
+	.incbin "sound/direct_sound_samples/SMWsteeldrum52.bin"
+	
+	.align 2
+DirectSoundWaveData_SMWukulele62::
+	.incbin "sound/direct_sound_samples/SMWukulele62.bin"
+	
+	.align 2
+DirectSoundWaveData_sqdown60::
+	.incbin "sound/direct_sound_samples/sqdown60.bin"
+	
+	.align 2
+DirectSoundWaveData_sinewavec247::
+	.incbin "sound/direct_sound_samples/sinewavec247.bin"
+	
+	.align 2
+DirectSoundWaveData_triwavec241::
+	.incbin "sound/direct_sound_samples/triwavec241.bin"
+	
+	.align 2
+DirectSoundWaveData_NESPulse1::
+	.incbin "sound/direct_sound_samples/NESPulse1.bin"
+	
+	.align 2
+DirectSoundWaveData_NESPulse2::
+	.incbin "sound/direct_sound_samples/NESPulse2.bin"
+	
+	.align 2
+DirectSoundWaveData_NESPulse3::
+	.incbin "sound/direct_sound_samples/NESPulse3.bin"
