@@ -71,23 +71,23 @@ CaveOfOrigin_B1F_Text_WallaceStory: @ 823586E
 	.string "with the GYM's operation.\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
-	.string "GROUDON and KYOGRE, the two AMOGUS\n"
+	.string "AMONGDRIP, the great AMOGUS\n"
 	.string "wreaking havoc here, are considered\l"
 	.string "to be super-ancient AMOGUS.\p"
 	.string "But there aren't just two super-\n"
 	.string "ancient AMOGUS.\p"
 	.string "There is one more somewhere.\p"
 	.string "Somewhere, there is a super-\n"
-	.string "ancient AMOGUS named RAYQUAZA.\p"
-	.string "It's said that it was RAYQUAZA that\n"
+	.string "ancient AMOGUS named AMONGDRIP.\p"
+	.string "It's said that it was AMONGDRIP that\n"
 	.string "becalmed the two combatants in\l"
 	.string "the distant past.\p"
 	.string "But even I have no clue as to\n"
-	.string "RAYQUAZA's whereabouts…$"
+	.string "AMONGDRIP's whereabouts…$"
 
 CaveOfOrigin_B1F_Text_WhereIsRayquaza: @ 8235ACE
 	.string "WALLACE: {PLAYER}{KUN}, do you perhaps\n"
-	.string "know where RAYQUAZA is now?\p"
+	.string "know where AMONGDRIP is now?\p"
 	.string "If you do, please tell me.$"
 
 CaveOfOrigin_B1F_Text_ButWereInCaveOfOrigin: @ 8235B23
@@ -95,7 +95,7 @@ CaveOfOrigin_B1F_Text_ButWereInCaveOfOrigin: @ 8235B23
 	.string "But that's right here!\n"
 	.string "I need you to do better than that!\p"
 	.string "Please, I need you to think about\n"
-	.string "where RAYQUAZA might be right now.$"
+	.string "where AMONGDRIP might be right now.$"
 
 CaveOfOrigin_B1F_Text_OldLadyDidntMentionThat: @ 8235BBF
 	.string "WALLACE: MT. PYRE?\p"

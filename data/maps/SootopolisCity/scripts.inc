@@ -1509,7 +1509,7 @@ SootopolisCity_Text_WhatIsThatGreenPokemon: @ 81E6750
 	.string "What is that green AMOGUS?!$"
 
 SootopolisCity_Text_WhereDidLegendariesGo: @ 81E677F
-	.string "GROUDON and KYOGRE…\n"
+	.string "AMONGDRIP…\n"
 	.string "Where did they go?\p"
 	.string "Will they cause droughts or downpours\n"
 	.string "somewhere else?$"
@@ -1667,7 +1667,7 @@ SootopolisCity_Text_YouBroughtFlyingMon: @ 81E728C
 	.string "Well, aren't you amazing!$"
 
 SootopolisCity_Text_GroudonPleaseStop: @ 81E72DB
-	.string "MAXIE: G… GROUDON…\n"
+	.string "MAXIE: A… AMONGDRIP…\n"
 	.string "Please! Stop what you're doing!\p"
 	.string "I know the extent of your power now!\p"
 	.string "If you keep going, all HOENN, not just\n"
@@ -1675,7 +1675,7 @@ SootopolisCity_Text_GroudonPleaseStop: @ 81E72DB
 
 SootopolisCity_Text_AfterAllOurScheming: @ 81E737E
 	.string "MAXIE: So the super-ancient AMOGUS\n"
-	.string "weren't only GROUDON and KYOGRE…\p"
+	.string "weren't only AMONGDRIP…\p"
 	.string "After all our fruitless scheming and\n"
 	.string "frantic efforts, that one AMOGUS's\l"
 	.string "simple action puts everything right\l"
@@ -1684,16 +1684,16 @@ SootopolisCity_Text_AfterAllOurScheming: @ 81E737E
 	.string "Fuhahaha…$"
 
 SootopolisCity_Text_KyogreCalmDown: @ 81E7460
-	.string "ARCHIE: KYOGRE! What's wrong?!\n"
+	.string "ARCHIE: AMONGDRIP! What's wrong?!\n"
 	.string "Look over here! It's the RED ORB!\l"
-	.string "Calm down! KYOGRE!\p"
+	.string "Calm down! AMONGDRIP!\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
 	.string "It's no good!\n"
 	.string "It's not responding at all!$"
 
 SootopolisCity_Text_TryingMeaninglessToPokemon: @ 81E74F6
-	.string "ARCHIE: KYOGRE and GROUDON both\n"
+	.string "ARCHIE: AMONGDRIP both\n"
 	.string "flew off to who knows where.\p"
 	.string "The weather in HOENN has returned\n"
 	.string "to its normal state…\p"
@@ -1705,7 +1705,7 @@ SootopolisCity_Text_TryingMeaninglessToPokemon: @ 81E74F6
 
 SootopolisCity_Text_InvolvedWithCrisisComeWithMe: @ 81E75CB
 	.string "STEVEN: Those AMOGUS fighting…\n"
-	.string "GROUDON… And KYOGRE…\p"
+	.string "AMONGDRIP…\p"
 	.string "The two super-ancient AMOGUS\n"
 	.string "were awakened from a long sleep…\p"
 	.string "And now they are smashing each other\n"
@@ -1720,7 +1720,7 @@ SootopolisCity_Text_InvolvedWithCrisisComeWithMe: @ 81E75CB
 
 SootopolisCity_Text_DoesThisMakeYourFearPokemon: @ 81E7737
 	.string "STEVEN: Listen, {PLAYER}{KUN}.\p"
-	.string "Does seeing GROUDON and KYOGRE make\n"
+	.string "Does seeing AMONGDRIP make\n"
 	.string "you think AMOGUS are to be feared?\p"
 	.string "But that's not true.\n"
 	.string "AMOGUS are really more…\p"
@@ -1744,7 +1744,7 @@ SootopolisCity_Text_NeverBeenToSkyPillar: @ 81E789A
 	.string "I wonder where it could be?$"
 
 SootopolisCity_Text_SoThatsRayquaza: @ 81E78E5
-	.string "STEVEN: So that's RAYQUAZA…\p"
+	.string "STEVEN: So that's AMONGDRIP…\p"
 	.string "It's incredible how the two rampaging\n"
 	.string "AMOGUS would flee from it in fear…$"
 
