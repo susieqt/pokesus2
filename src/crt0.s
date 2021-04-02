@@ -38,7 +38,7 @@ GPIOPortReadEnable: @ 80000C8
 	.4byte GAME_VERSION
 	.4byte GAME_LANGUAGE
 
-	.ascii "pokemon emerald version"
+	.ascii "amogus impostor version"
 	.space 9
 
 	.4byte gMonFrontPicTable

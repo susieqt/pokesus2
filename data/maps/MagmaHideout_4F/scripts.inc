@@ -134,18 +134,18 @@ MagmaHideout_4F_EventScript_Tabitha:: @ 823A6D1
 	end
 
 MagmaHideout_4F_Text_Grunt11Intro: @ 823A6E8
-	.string "I want to see GROUDON, too, but they\n"
+	.string "I want to see AMONGDRIP, too, but they\n"
 	.string "won't let me see even its tail…\p"
 	.string "It's got me feeling really frustrated.\p"
 	.string "Oh, no!\n"
-	.string "I blabbed about GROUDON!$"
+	.string "I blabbed about AMONGDRIP!$"
 
 MagmaHideout_4F_Text_Grunt11Defeat: @ 823A775
 	.string "I guess it's impossible to win if one\n"
 	.string "doesn't have a calm mind…$"
 
 MagmaHideout_4F_Text_Grunt11PostBattle: @ 823A7B5
-	.string "I wonder if GROUDON even has a tail?$"
+	.string "I wonder if AMONGDRIP even has a tail?$"
 
 MagmaHideout_4F_Text_Grunt12Intro: @ 823A7DA
 	.string "Fuhahaha!\n"
@@ -174,8 +174,8 @@ MagmaHideout_4F_Text_TabithaIntro: @ 823A8E1
 	.string "Hehehe!\n"
 	.string "You made it this far, so I'll tell you!\p"
 	.string "That's right!\n"
-	.string "Up ahead, GROUDON is sleeping!\p"
-	.string "MAXIE went to GROUDON just seconds\n"
+	.string "Up ahead, AMONGDRIP is sleeping!\p"
+	.string "MAXIE went to AMONGDRIP just seconds\n"
 	.string "ago!\p"
 	.string "It's going to awaken real soon!\n"
 	.string "Hehe! Hehehe!$"
@@ -186,10 +186,10 @@ MagmaHideout_4F_Text_TabithaDefeat: @ 823A994
 
 MagmaHideout_4F_Text_TabithaPostBattle: @ 823A9AC
 	.string "…And while you wasted time with me,\n"
-	.string "MAXIE should have awakened GROUDON…$"
+	.string "MAXIE should have awakened AMONGDRIP…$"
 
 MagmaHideout_4F_Text_MaxieAwakenGroudon: @ 823A9F4
-	.string "MAXIE: GROUDON…\p"
+	.string "MAXIE: AMONGDRIP…\p"
 	.string "Nothing could awaken you from your\n"
 	.string "sleep bathed in magma…\p"
 	.string "This BLUE ORB is what you sought.\n"
@@ -200,10 +200,10 @@ MagmaHideout_4F_Text_MaxieAwakenGroudon: @ 823A9F4
 	.string "Show me the full extent of your power!$"
 
 MagmaHideout_4F_Text_MaxieGroudonWhatsWrong: @ 823AADA
-	.string "MAXIE: GROUDON!\n"
+	.string "MAXIE: AMONGDRIP!\n"
 	.string "What's wrong?\p"
 	.string "Wasn't the BLUE ORB the key?\p"
-	.string "GROUDON!\n"
+	.string "AMONGDRIP!\n"
 	.string "Where have you gone…$"
 
 MagmaHideout_4F_Text_MaxieOhItWasYou: @ 823AB33
@@ -219,14 +219,14 @@ MagmaHideout_4F_Text_MaxieDefeat: @ 823ABB5
 
 MagmaHideout_4F_Text_MaxieImGoingAfterGroudon: @ 823ABE2
 	.string "MAXIE: There has to be some reason\n"
-	.string "why GROUDON fled…\p"
+	.string "why AMONGDRIP fled…\p"
 	.string "That's what you're trying to say,\n"
 	.string "aren't you?\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
 	.string "Humph…\n"
 	.string "You think I didn't know that?\p"
-	.string "With GROUDON gone, there is no longer\n"
+	.string "With AMONGDRIP gone, there is no longer\n"
 	.string "any need for this blasted volcano.\p"
-	.string "I am going after GROUDON, so this\n"
+	.string "I am going after AMONGDRIP, so this\n"
 	.string "is where we part!$"

@@ -185,5 +185,5 @@ SkyPillar_Top_Movement_CameraPanDown: @ 823985C
 	step_end
 
 SkyPillar_Top_Text_RayquazaFlewOff: @ 8239860
-	.string "The awakened AMOGUS flew off…$"
+	.string "The awakened AMONGDRIP flew off…$"
 
