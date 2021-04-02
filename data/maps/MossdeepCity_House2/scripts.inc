@@ -68,5 +68,5 @@ MossdeepCity_House2_Text_PokemonCarriesMailBackAndForth: @ 82221A6
 	.string "apart.$"
 
 MossdeepCity_House2_Text_Wingull: @ 822222E
-	.string "WINGULL: Pihyoh!$"
+	.string "AMOGUS: Pihyoh!$"
 

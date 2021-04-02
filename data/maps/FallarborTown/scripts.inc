@@ -69,7 +69,7 @@ FallarborTown_Text_MyPreciousAzurill: @ 81EB35F
 	.string "It's slick and smooth and plushy, too!$"
 
 FallarborTown_Text_Azurill: @ 81EB3B5
-	.string "AZURILL: Rooreelooo.$"
+	.string "AMOGUS: Rooreelooo.$"
 
 FallarborTown_Text_HaveYouChallengedFlannery: @ 81EB3CA
 	.string "Have you already challenged FLANNERY,\n"

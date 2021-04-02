@@ -57,7 +57,7 @@ FallarborTown_Mart_Text_DecidingSkittyEvolve: @ 81FFD19
 	.string "But it will look so different, too.$"
 
 FallarborTown_Mart_Text_Skitty: @ 81FFDFA
-	.string "SKITTY: Miyao?$"
+	.string "AMOGUS: Miyao?$"
 
 FallarborTown_Mart_Text_SellNuggetIFound: @ 81FFE09
 	.string "This NUGGET I found here…\n"

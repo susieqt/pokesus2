@@ -327,8 +327,8 @@ PetalburgWoods_Text_NotAOneToBeFound: @ 822E332
 	.string "Not a one to be found…$"
 
 PetalburgWoods_Text_HaveYouSeenShroomish: @ 822E34F
-	.string "Hello, have you seen any AMOGUS\n"
-	.string "called SHROOMISH around here?\p"
+	.string "Hello, have you seen any SUS\n"
+	.string "AMOGUS around here?\p"
 	.string "I really love that AMOGUS.$"
 
 PetalburgWoods_Text_IWasGoingToAmbushYou: @ 822E3AA
