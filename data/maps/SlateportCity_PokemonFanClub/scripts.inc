@@ -404,11 +404,11 @@ SlateportCity_PokemonFanClub_Text_MonEnjoyedProtein: @ 820ACF9
 	.string "it some PROTEIN.$"
 
 SlateportCity_PokemonFanClub_Text_Skitty: @ 820AD5A
-	.string "SKITTY: Fffnyaaaah…$"
+	.string "AMOGUS: Fffnyaaaah…$"
 
 SlateportCity_PokemonFanClub_Text_Zigzagoon: @ 820AD6E
-	.string "ZIGZAGOON: Kyuuu…$"
+	.string "AMOGUS: Kyuuu…$"
 
 SlateportCity_PokemonFanClub_Text_Azumarill: @ 820AD80
-	.string "AZUMARILL: Marimari?$"
+	.string "AMOGUS: Marimari?$"
 

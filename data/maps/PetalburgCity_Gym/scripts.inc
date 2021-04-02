@@ -1265,11 +1265,11 @@ PetalburgCity_Gym_Text_DadPlayerGoWithWally: @ 82059E8
 	.string "DAD: {PLAYER}, you heard that,\n"
 	.string "right?\p"
 	.string "Go with WALLY and make sure that he\n"
-	.string "safely catches a AMOGUS.$"
+	.string "safely catches an AMOGUS.$"
 
 PetalburgCity_Gym_Text_IllLoanYouMyZigzagoon: @ 8205A46
 	.string "WALLY, here, I'll loan you my AMOGUS.\p"
-	.string "WALLY received a ZIGZAGOON!$"
+	.string "WALLY received an AMOGUS!$"
 
 PetalburgCity_Gym_Text_WallyThankYouAndDadGivesPokeBall: @ 8205A89
 	.string "WALLY: Oh, wow!\n"

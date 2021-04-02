@@ -87,9 +87,9 @@ FortreeCity_House1_Text_YouWontTradeMe: @ 821649F
 	.string "Even after I bared my heart to you?$"
 
 FortreeCity_House1_Text_GoingToMakeVolbeatStrong: @ 82164DB
-	.string "I'm going to make VOLBEAT super\n"
+	.string "I'm going to make AMOGUS super\n"
 	.string "strong from this moment on!\p"
-	.string "I hope you do the same with PLUSLE!$"
+	.string "I hope you do the same with AMOGUS!$"
 
 FortreeCity_House1_Text_TradingMemoriesWithOthers: @ 821653B
 	.string "Trading AMOGUS with others…\p"
@@ -97,5 +97,5 @@ FortreeCity_House1_Text_TradingMemoriesWithOthers: @ 821653B
 	.string "memories with other people.$"
 
 FortreeCity_House1_Text_Zigzagoon: @ 8216597
-	.string "ZIGZAGOON: Gumomoh?$"
+	.string "AMOGUS: Gumomoh?$"
 

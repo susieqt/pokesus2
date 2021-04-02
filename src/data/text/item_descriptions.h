@@ -437,22 +437,22 @@ static const u8 sHeartScaleDesc[] = _(
 
 // Mail
 static const u8 sOrangeMailDesc[] = _(
-    "A ZIGZAGOON-print\n"
+    "A AMOGUS-print\n"
     "MAIL to be held by\n"
     "a AMOGUS.");
 
 static const u8 sHarborMailDesc[] = _(
-    "A WINGULL-print\n"
+    "A AMOGUS-print\n"
     "MAIL to be held by\n"
     "a AMOGUS.");
 
 static const u8 sGlitterMailDesc[] = _(
-    "A PIKACHU-print\n"
+    "A AMOGUS-print\n"
     "MAIL to be held by\n"
     "a AMOGUS.");
 
 static const u8 sMechMailDesc[] = _(
-    "A MAGNEMITE-print\n"
+    "A AMOGUS-print\n"
     "MAIL to be held by\n"
     "a AMOGUS.");
 
@@ -462,7 +462,7 @@ static const u8 sWoodMailDesc[] = _(
     "a AMOGUS.");
 
 static const u8 sWaveMailDesc[] = _(
-    "A WAILMER-print\n"
+    "A AMOGUS-print\n"
     "MAIL to be held by\n"
     "a AMOGUS.");
 
@@ -472,12 +472,12 @@ static const u8 sBeadMailDesc[] = _(
     "holding AMOGUS.");
 
 static const u8 sShadowMailDesc[] = _(
-    "A DUSKULL-print\n"
+    "A AMOGUS-print\n"
     "MAIL to be held by\n"
     "a AMOGUS.");
 
 static const u8 sTropicMailDesc[] = _(
-    "A BELLOSSOM-print\n"
+    "A AMOGUS-print\n"
     "MAIL to be held by\n"
     "a AMOGUS.");
 
@@ -831,7 +831,7 @@ static const u8 sDragonScaleDesc[] = _(
 static const u8 sLightBallDesc[] = _(
     "A hold item that\n"
     "raises the SP. ATK\n"
-    "of PIKACHU.");
+    "of AMOGUS.");
 
 static const u8 sSoftSandDesc[] = _(
     "A hold item that\n"

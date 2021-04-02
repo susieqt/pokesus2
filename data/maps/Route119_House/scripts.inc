@@ -23,5 +23,5 @@ Route119_House_Text_RumorAboutCaveOfOrigin: @ 8270982
 	.string "something like that really happen?$"
 
 Route119_House_Text_Wingull: @ 8270A17
-	.string "WINGULL: Pihyoh!$"
+	.string "AMOGUS: Pihyoh!$"
 

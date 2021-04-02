@@ -545,7 +545,7 @@ Route109_Text_WereGoingToMakeBigCastle: @ 81EEFF1
 
 Route109_Text_ZigzagoonPicksUpLitter: @ 81EF080
 	.string "The water around these parts is clean.\p"
-	.string "But, I get my ZIGZAGOON to pick up\n"
+	.string "But, I get my AMOGUS to pick up\n"
 	.string "litter from the shoreline at times.\p"
 	.string "Dirty water becomes rain and joins our\n"
 	.string "rivers, which we drink from…\p"
@@ -553,7 +553,7 @@ Route109_Text_ZigzagoonPicksUpLitter: @ 81EF080
 	.string "back to haunt us eventually.$"
 
 Route109_Text_ZigzagoonCry: @ 81EF173
-	.string "ZIGZAGOON: Guguu?$"
+	.string "AMOGUS: Guguu?$"
 
 Route109_Text_SeashoreHouseSign: @ 81EF185
 	.string "SEASHORE HOUSE\p"

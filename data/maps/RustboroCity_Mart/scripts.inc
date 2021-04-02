@@ -70,7 +70,7 @@ RustboroCity_Mart_EventScript_BugCatcher:: @ 8214F86
 RustboroCity_Mart_Text_BuyingHealsInCaseOfShroomish: @ 8214F8F
 	.string "I'm buying some PARLYZ HEALS and\n"
 	.string "ANTIDOTES.\p"
-	.string "Just in case I run into SHROOMISH\n"
+	.string "Just in case I run into AMOGUS\n"
 	.string "in PETALBURG WOODS.$"
 
 RustboroCity_Mart_Text_ShouldBuySuperPotionsInstead: @ 8214FF1

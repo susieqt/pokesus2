@@ -949,7 +949,7 @@ gText_PlayerFoundOneTMHM:: @ 82731A9
 
 gText_Sudowoodo_Attacked:: @ 82731BD
 	.string "The weird tree doesn't like the\n"
-	.string "WAILMER PAIL!\p"
+	.string "AMOGUS PAIL!\p"
 	.string "The weird tree attacked!$"
 
 gText_LegendaryFlewAway:: @ 8273204
