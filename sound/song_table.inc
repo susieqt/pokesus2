@@ -471,20 +471,20 @@ gSongTable:: @ 86B49F0
 	song mus_route101, 0, 0
 	song mus_route101, 0, 0
 	song mus_route101, 0, 0
-	song mus_vs_rayquaza, 0, 0
+	song mus_vs_wild, 0, 0
 	song mus_vs_frontier_brain, 0, 0
 	song mus_c_vs_legend_beast, 0, 0
 	song mus_route101, 0, 0
 	song mus_vs_wild, 0, 0
-	song mus_vs_aqua_magma, 0, 0
-	song mus_vs_trainer, 0, 0
-	song mus_vs_gym_leader, 0, 0
-	song mus_vs_champion, 0, 0
-	song mus_vs_regi, 0, 0
-	song mus_vs_kyogre_groudon, 0, 0
-	song mus_vs_rival, 0, 0
-	song mus_vs_elite_four, 0, 0
-	song mus_vs_aqua_magma_leader, 0, 0
+	song mus_vs_wild, 0, 0
+	song mus_vs_wild, 0, 0
+	song mus_vs_wild, 0, 0
+	song mus_vs_wild, 0, 0
+	song mus_vs_wild, 0, 0
+	song mus_vs_wild, 0, 0
+	song mus_vs_wild, 0, 0
+	song mus_vs_wild, 0, 0
+	song mus_vs_wild, 0, 0
 	song mus_rg_follow_me, 0, 0
 	song mus_rg_game_corner, 0, 0
 	song mus_rg_rocket_hideout, 0, 0
