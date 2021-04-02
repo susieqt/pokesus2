@@ -186,7 +186,7 @@ MauvilleCity_BikeShop_Text_RydelGreeting: @ 820EE22
 	.string "Well, well, what have we here?\n"
 	.string "A most energetic customer!\p"
 	.string "Me? You may call me RYDEL.\n"
-	.string "I'm the owner of this cycle shop.$"
+	.string "I'm the owner of this shoe shop.$"
 
 MauvilleCity_BikeShop_Text_DidYouComeFromFarAway: @ 820EE99
 	.string "RYDEL: Your RUNNING SHOES…\n"
@@ -196,7 +196,7 @@ MauvilleCity_BikeShop_Text_DidYouComeFromFarAway: @ 820EE99
 MauvilleCity_BikeShop_Text_GuessYouDontNeedBike: @ 820EEE8
 	.string "RYDEL: Is that right?\p"
 	.string "Then, I guess you have no need for\n"
-	.string "any of my BIKES.$"
+	.string "any of my DRIP.$"
 
 MauvilleCity_BikeShop_Text_ExplainBikesChooseWhichOne: @ 820EF32
 	.string "RYDEL: Hm, hm… … … … …\p"
@@ -204,37 +204,37 @@ MauvilleCity_BikeShop_Text_ExplainBikesChooseWhichOne: @ 820EF32
 	.string "way from LITTLEROOT?\p"
 	.string "My goodness!\n"
 	.string "That's ridiculously far!\p"
-	.string "If you had one of my BIKES, you could\n"
+	.string "If you had one of my DRIP, you could\n"
 	.string "go anywhere easily while feeling the\l"
 	.string "gentle caress of the wind!\p"
 	.string "I'll tell you what!\n"
-	.string "I'll give you a BIKE!\p"
+	.string "I'll give you a DRIP!\p"
 	.string "Oh, wait a second!\p"
 	.string "I forgot to tell you that there are\n"
 	.string "two kinds of BIKES!\p"
-	.string "They are the MACH BIKE and\n"
-	.string "the ACRO BIKE!\p"
-	.string "The MACH BIKE is for cyclists who want\n"
+	.string "They are the MACH DRIP and\n"
+	.string "the ACRO DRIP!\p"
+	.string "The MACH DRIP is for runners who want\n"
 	.string "to feel the wind with their bodies!\p"
-	.string "And an ACRO BIKE is for those who\n"
-	.string "prefer technical rides!\p"
+	.string "And an ACRO DRIP is for those who\n"
+	.string "prefer technical runs!\p"
 	.string "I'm a real sweetheart, so you can\n"
 	.string "have whichever one you like!\p"
 	.string "Which one will you choose?$"
 
 MauvilleCity_BikeShop_Text_ChoseMachBike: @ 820F18D
-	.string "{PLAYER} chose the MACH BIKE.$"
+	.string "{PLAYER} chose the MACH DRIP.$"
 
 MauvilleCity_BikeShop_Text_ChoseAcroBike: @ 820F1A5
-	.string "{PLAYER} chose the ACRO BIKE.$"
+	.string "{PLAYER} chose the ACRO DRIP.$"
 
 MauvilleCity_BikeShop_Text_ComeBackToSwitchBikes: @ 820F1BD
 	.string "RYDEL: If you get the urge to switch\n"
-	.string "BIKES, just come see me!$"
+	.string "DRIP, just come see me!$"
 
 MauvilleCity_BikeShop_Text_WantToSwitchBikes: @ 820F1FB
 	.string "RYDEL: Oh? Were you thinking about\n"
-	.string "switching BIKES?$"
+	.string "switching DRIP?$"
 
 MauvilleCity_BikeShop_Text_IllSwitchBikes: @ 820F22F
 	.string "RYDEL: Okay, no problem!\n"
