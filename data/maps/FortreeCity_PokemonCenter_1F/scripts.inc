@@ -31,7 +31,7 @@ FortreeCity_PokemonCenter_1F_EventScript_Boy:: @ 8217407
 
 FortreeCity_PokemonCenter_1F_Text_GoToSafariZone: @ 8217410
 	.string "Listen, kid, are you working\n"
-	.string "on a POKéDEX?\p"
+	.string "on a SUSDEX?\p"
 	.string "Hmm… Go to the SAFARI ZONE.\n"
 	.string "That's my suggestion.$"
 
@@ -44,9 +44,9 @@ FortreeCity_PokemonCenter_1F_Text_RecordCornerIsNeat: @ 821746D
 	.string "but it's cool. It's exciting, even!$"
 
 FortreeCity_PokemonCenter_1F_Text_DoYouKnowAboutPokenav: @ 821751F
-	.string "Oh, wow, you have a POKéNAV!\n"
+	.string "Oh, wow, you have a SUSNAV!\n"
 	.string "And it's just like mine!\p"
-	.string "Do you know about POKéNAV's\n"
+	.string "Do you know about SUSNAV's\n"
 	.string "MATCH CALL system?\p"
 	.string "Access it, and you can chat with\n"
 	.string "registered TRAINERS anytime.\p"

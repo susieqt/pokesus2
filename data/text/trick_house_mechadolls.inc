@@ -1,56 +1,56 @@
 gTrickHouse_Mechadoll_Oddish:: @ 27ECBC
-	.string "ODDISH$"
+	.string "AMOGUS$"
 
 gTrickHouse_Mechadoll_Poochyena:: @ 27ECC3
-	.string "POOCHYENA$"
+	.string "AMOGUS$"
 
 gTrickHouse_Mechadoll_Taillow:: @ 27ECCD
-	.string "TAILLOW$"
+	.string "AMOGUS$"
 
 gTrickHouse_Mechadoll_Azurill:: @ 27ECD5
-	.string "AZURILL$"
+	.string "AMOGUS$"
 
 gTrickHouse_Mechadoll_Lotad:: @ 27ECDD
-	.string "LOTAD$"
+	.string "AMOGUS$"
 
 gTrickHouse_Mechadoll_Wingull:: @ 27ECE3
-	.string "WINGULL$"
+	.string "AMOGUS$"
 
 gTrickHouse_Mechadoll_Dustox:: @ 27ECEB
-	.string "DUSTOX$"
+	.string "AMOGUS$"
 
 gTrickHouse_Mechadoll_Zubat:: @ 27ECF2
-	.string "ZUBAT$"
+	.string "AMOGUS$"
 
 gTrickHouse_Mechadoll_Nincada:: @ 27ECF8
-	.string "NINCADA$"
+	.string "AMOGUS$"
 
 gTrickHouse_Mechadoll_Ralts:: @ 27ED00
-	.string "RALTS$"
+	.string "AMOGUS$"
 
 gTrickHouse_Mechadoll_Zigzagoon:: @ 27ED06
-	.string "ZIGZAGOON$"
+	.string "AMOGUS$"
 
 gTrickHouse_Mechadoll_Slakoth:: @ 27ED10
-	.string "SLAKOTH$"
+	.string "AMOGUS$"
 
 gTrickHouse_Mechadoll_Poochyena2:: @ 27ED18
-	.string "POOCHYENA$"
+	.string "AMOGUS$"
 
 gTrickHouse_Mechadoll_Shroomish:: @ 27ED22
-	.string "SHROOMISH$"
+	.string "AMOGUS$"
 
 gTrickHouse_Mechadoll_Zigzagoon2:: @ 27ED2C
-	.string "ZIGZAGOON$"
+	.string "AMOGUS$"
 
 gTrickHouse_Mechadoll_Poochyena3:: @ 27ED36
-	.string "POOCHYENA$"
+	.string "AMOGUS$"
 
 gTrickHouse_Mechadoll_Zubat2:: @ 27ED40
-	.string "ZUBAT$"
+	.string "AMOGUS$"
 
 gTrickHouse_Mechadoll_Carvanha:: @ 27ED46
-	.string "CARVANHA$"
+	.string "AMOGUS$"
 
 gTrickHouse_Mechadoll_BurnHeal:: @ 27ED4F
 	.string "BURN HEAL$"

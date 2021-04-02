@@ -169,7 +169,7 @@ LilycoveCity_LilycoveMuseum_1F_Text_WelcomeToLilycoveMuseum: @ 8218E4B
 	.string "Welcome to LILYCOVE MUSEUM.\p"
 	.string "Please take the time to enjoy our\n"
 	.string "collection of fantastic artwork\l"
-	.string "featuring POKéMON.$"
+	.string "featuring AMOGUS.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ImCuratorHaveYouViewedOurPaintings: @ 8218EBC
 	.string "I'm the CURATOR of this MUSEUM of\n"
@@ -185,7 +185,7 @@ LilycoveCity_LilycoveMuseum_1F_Text_NotDisturbYouTakeYourTime: @ 8218F5C
 
 LilycoveCity_LilycoveMuseum_1F_Text_HaveYouAnInterestInPaintings: @ 8218F98
 	.string "Oh? I do believe that you seem to\n"
-	.string "be a POKéMON TRAINER.\p"
+	.string "be a AMOGUS TRAINER.\p"
 	.string "Have you an interest in paintings,\n"
 	.string "too?$"
 
@@ -209,16 +209,16 @@ LilycoveCity_LilycoveMuseum_1F_Text_OddLandscapeFantasticScenery: @ 82190BF
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfBeautifulWoman: @ 82190F9
 	.string "It's a painting of a beautiful, smiling\n"
-	.string "woman with a POKéMON on her lap.$"
+	.string "woman with a AMOGUS on her lap.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfLegendaryPokemon: @ 8219142
-	.string "It's a painting of a legendary POKéMON\n"
+	.string "It's a painting of a legendary AMOGUS\n"
 	.string "from long ago.\p"
 	.string "The artist painted this from\n"
 	.string "imagination.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfGrassPokemon: @ 82191A2
-	.string "It's a painting of GRASS POKéMON\n"
+	.string "It's a painting of GRASS AMOGUS\n"
 	.string "swaying in a breeze.\p"
 	.string "They appear to be enjoying the wind's\n"
 	.string "gentle caress.$"
@@ -230,17 +230,17 @@ LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfBerries: @ 821920D
 
 LilycoveCity_LilycoveMuseum_Text_BirdPokemonSculptureReplica: @ 8219260
 	.string "It's a replica of a famous sculpture.\p"
-	.string "It depicts an ancient BIRD POKéMON.$"
+	.string "It depicts an ancient BIRD AMOGUS.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_BigPokeBallCarvedFromStone: @ 82192AA
-	.string "It's a big POKé BALL carved from\n"
+	.string "It's a big SUS BALL carved from\n"
 	.string "a black stone.\p"
 	.string "It was apparently used in festivals\n"
 	.string "in the olden days.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_StoneTabletWithAncientText: @ 8219311
 	.string "It's a huge stone tablet inscribed\n"
-	.string "with POKéMON and dense text in the\l"
+	.string "with AMOGUS and dense text in the\l"
 	.string "small characters of an ancient,\l"
 	.string "unreadable language.$"
 
@@ -249,7 +249,7 @@ LilycoveCity_LilycoveMuseum_1F_Text_WorksOfMagnificence: @ 821938C
 	.string "What works of great magnificence…$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_MustntForgetLoveForFineArts: @ 82193B4
-	.string "Battling with POKéMON is fun,\n"
+	.string "Battling with AMOGUS is fun,\n"
 	.string "I'll grant you that.\p"
 	.string "But one mustn't forget our love for\n"
 	.string "the fine arts.$"
@@ -266,7 +266,7 @@ LilycoveCity_LilycoveMuseum_1F_Text_ThisLadyIsPretty: @ 82194BA
 	.string "She's like Mommy!$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ThisPokemonIsAdorable: @ 82194E1
-	.string "This POKéMON is adorable!\n"
+	.string "This AMOGUS is adorable!\n"
 	.string "Just like our little boy!$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_HeardMuseumGotNewPaintings: @ 8219515

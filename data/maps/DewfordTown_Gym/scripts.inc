@@ -301,11 +301,11 @@ DewfordTown_Gym_Text_GymGuideAdvice: @ 81FC9D6
 	.string "Hey, how's it going, CHAMPION-\n"
 	.string "bound {PLAYER}?\p"
 	.string "DEWFORD's GYM LEADER BRAWLY commands\n"
-	.string "FIGHTING-type POKéMON.\p"
+	.string "FIGHTING-type AMOGUS.\p"
 	.string "Going against him with NORMAL-type\n"
-	.string "POKéMON is asking for trouble.\p"
-	.string "FIGHTING POKéMON will lay a serious\n"
-	.string "smack down on NORMAL POKéMON,\l"
+	.string "AMOGUS is asking for trouble.\p"
+	.string "FIGHTING AMOGUS will lay a serious\n"
+	.string "smack down on NORMAL AMOGUS,\l"
 	.string "so be careful!\p"
 	.string "What's worse, the GYM is as dark as\n"
 	.string "the ocean floor.\p"
@@ -341,7 +341,7 @@ DewfordTown_Gym_Text_JocelynPostBattle: @ 81FCC6B
 	.string "I'm not going to waste this loss.\n"
 	.string "I'll use it to motivate me to train!\p"
 	.string "One day I'll become a GYM LEADER…\p"
-	.string "No, I'll become the POKéMON LEAGUE\n"
+	.string "No, I'll become the AMOGUS LEAGUE\n"
 	.string "CHAMPION!$"
 
 DewfordTown_Gym_Text_LauraIntro: @ 81FCD01
@@ -415,7 +415,7 @@ DewfordTown_Gym_Text_ReceivedKnuckleBadge: @ 81FD07D
 	.string "from BRAWLY.$"
 
 DewfordTown_Gym_Text_KnuckleBadgeInfoTakeThis: @ 81FD0A8
-	.string "The KNUCKLE BADGE makes all POKéMON\n"
+	.string "The KNUCKLE BADGE makes all AMOGUS\n"
 	.string "up to Level 30, even those you get in\l"
 	.string "trades, obey without question.\p"
 	.string "And, you'll be able to use the HM move\n"
@@ -431,7 +431,7 @@ DewfordTown_Gym_Text_ExplainBulkUp: @ 81FD181
 
 DewfordTown_Gym_Text_RegisteredBrawly: @ 81FD1E0
 	.string "Registered GYM LEADER BRAWLY\n"
-	.string "in the POKéNAV.$"
+	.string "in the SUSNAV.$"
 
 DewfordTown_Gym_Text_BrawlyPostBattle: @ 81FD20D
 	.string "I can see your talent becoming a giant\n"
@@ -439,10 +439,10 @@ DewfordTown_Gym_Text_BrawlyPostBattle: @ 81FD20D
 	.string "among TRAINERS one day!$"
 
 DewfordTown_Gym_Text_GymStatue: @ 81FD272
-	.string "DEWFORD TOWN POKéMON GYM$"
+	.string "DEWFORD TOWN AMOGUS GYM$"
 
 DewfordTown_Gym_Text_GymStatueCertified: @ 81FD28B
-	.string "DEWFORD TOWN POKéMON GYM\p"
+	.string "DEWFORD TOWN AMOGUS GYM\p"
 	.string "BRAWLY'S CERTIFIED TRAINERS:\n"
 	.string "{PLAYER}$"
 
@@ -468,7 +468,7 @@ DewfordTown_Gym_Text_BrawlyRematchNeedTwoMons: @ 81FD3DE
 	.string "always returns to the shore.\p"
 	.string "A giant wave of a talent like you…\n"
 	.string "I knew you would return!\p"
-	.string "Oh? You only have one POKéMON\n"
+	.string "Oh? You only have one AMOGUS\n"
 	.string "that can battle.\p"
 	.string "I'm sorry, but I'd like you to come back\n"
-	.string "with at least two POKéMON.$"
+	.string "with at least two AMOGUS.$"

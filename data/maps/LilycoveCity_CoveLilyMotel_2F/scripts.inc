@@ -70,7 +70,7 @@ LilycoveCity_CoveLilyMotel_2F_EventScript_MetScott:: @ 821876A
 LilycoveCity_CoveLilyMotel_2F_Text_ShowMeCompletedDex: @ 8218774
 	.string "I'm the GAME DESIGNER.\p"
 	.string "Oh, is that right?\n"
-	.string "You're working on a POKéDEX?\p"
+	.string "You're working on a SUSDEX?\p"
 	.string "It's tough trying to complete it,\n"
 	.string "but don't give up.\p"
 	.string "If you do complete it, please come\n"
@@ -79,8 +79,8 @@ LilycoveCity_CoveLilyMotel_2F_Text_ShowMeCompletedDex: @ 8218774
 LilycoveCity_CoveLilyMotel_2F_Text_FilledPokedexGiveYouThis: @ 821881C
 	.string "Wow! That's awesome!\n"
 	.string "Yep, it's totally awesome!\p"
-	.string "This POKéDEX is completely filled!\n"
-	.string "You really must love POKéMON!\p"
+	.string "This SUSDEX is completely filled!\n"
+	.string "You really must love AMOGUS!\p"
 	.string "I'm so impressed!\p"
 	.string "Let me give you something in\n"
 	.string "recognition of your feat!$"
@@ -93,7 +93,7 @@ LilycoveCity_CoveLilyMotel_2F_Text_ImTheProgrammer: @ 82188D6
 
 LilycoveCity_CoveLilyMotel_2F_Text_ImTheGraphicArtist: @ 821892B
 	.string "I'm the GRAPHIC ARTIST! Aren't the\n"
-	.string "POKéMON of HOENN interesting?$"
+	.string "AMOGUS of HOENN interesting?$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_GirlsAreCute: @ 821896C
 	.string "The girl TUBERS, they're cute, hey?\n"
@@ -118,7 +118,7 @@ LilycoveCity_CoveLilyMotel_2F_Text_SnoozingPreferBattles: @ 8218ACF
 	.string "… … … … … Zzz…\p"
 	.string "… … … … … Huh?!\n"
 	.string "Oh, sorry, sorry! I was snoozing!\p"
-	.string "I came to check out this POKéMON\n"
+	.string "I came to check out this AMOGUS\n"
 	.string "CONTEST thing.\p"
 	.string "I have to admit, it does look quite\n"
 	.string "entertaining, but…\p"
