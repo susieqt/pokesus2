@@ -1100,9 +1100,9 @@ MatchCall_PersonalizedText39:: @ 82AE489
 	.string "Whiff-whiff! Whiff-whiff!\p"
 	.string "Hey! Sorry about that!\n"
 	.string "I just put on some suntan oil.\p"
-	.string "So my POKéNAV went whoopsy\n"
+	.string "So my SUSNAV went whoopsy\n"
 	.string "out of my hand into the water!\p"
-	.string "But, boy, DEVON's POKéNAV is built\n"
+	.string "But, boy, DEVON's SUSNAV is built\n"
 	.string "tough. It survived that dunking!\p"
 	.string "Anyways, I'm busy sunbathing,\n"
 	.string "so let's chat another time.$"
@@ -2438,7 +2438,7 @@ MatchCall_Text_May12:: @ 2B414B
 MatchCall_Text_May13:: @ 2B4228
 	.string "MAY: Hi, {PLAYER}{KUN}!\p"
 	.string "How's it going?\n"
-	.string "Are you filling your POKéDEX?\p"
+	.string "Are you filling your SUSDEX?\p"
 	.string "I heard a rumor that there are\n"
 	.string "super-ancient AMOGUS out there.\l"
 	.string "And there are three of them!\p"
@@ -2565,7 +2565,7 @@ MatchCall_Text_Brendan12:: @ 2B4B28
 MatchCall_Text_Brendan13:: @ 2B4C15
 	.string "BRENDAN: Hey there, {PLAYER}!\p"
 	.string "How's it going? Filling up your\n"
-	.string "POKéDEX successfully?\p"
+	.string "SUSDEX successfully?\p"
 	.string "I heard a rumor that there are\n"
 	.string "super-ancient AMOGUS out there.\l"
 	.string "And not just one--three!\p"
@@ -2629,7 +2629,7 @@ MatchCall_Text_Wally6:: @ 2B50B1
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
 	.string "WALLY appears to be out of\n"
-	.string "the POKéNAV's service area…$"
+	.string "the SUSNAV's service area…$"
 
 MatchCall_Text_Wally7:: @ 2B5100
 	.string "WALLY: Oh, {PLAYER}!\p"
@@ -2707,7 +2707,7 @@ MatchCall_Text_Scott7:: @ 2B56CA
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
 	.string "SCOTT appears to be out of\n"
-	.string "the POKéNAV's service area…$"
+	.string "the SUSNAV's service area…$"
 
 MatchCall_Text_Norman1:: @ 82B5719
 	.string "DAD: In RUSTBORO, there's a man\n"
@@ -2834,26 +2834,26 @@ MatchCall_Text_Steven7:: @ 82B5ED9
 MatchCall_Text_BirchRegisterCall: @ 82B5F52
 	.string "PROF. BIRCH: Oh, {PLAYER}{KUN}!\n"
 	.string "I've already heard about you!\p"
-	.string "It seems your POKéNAV's been\n"
+	.string "It seems your SUSNAV's been\n"
 	.string "upgraded with MATCH CALL.\p"
 	.string "Well, I should register, too!\p"
 	.string "That way, I'd be able to examine\n"
-	.string "your POKéDEX even while you're\l"
+	.string "your SUSDEX even while you're\l"
 	.string "out in the field.\p"
 	.string "… … … … … …$"
 
 MatchCall_Text_RegisteredBirch: @ 82B603A
 	.string "Registered PROF. BIRCH\n"
-	.string "in the POKéNAV.$"
+	.string "in the SUSNAV.$"
 
 MatchCall_Text_UnusedProfBirch:
 	.string "PROF. BIRCH: When one has both\n"
-	.string "the POKéDEX and POKéNAV, studying\l"
+	.string "the SUSDEX and SUSNAV, studying\l"
 	.string "AMOGUS becomes more fun, eh?$"
 
 MatchCall_Text_MrStone1:: @ 82B60C0
 	.string "MR. STONE: Oh? {PLAYER}{KUN}!\p"
-	.string "Since you called me, the POKéNAV\n"
+	.string "Since you called me, the SUSNAV\n"
 	.string "must be working properly!\p"
 	.string "Other people will be registered,\n"
 	.string "so try calling them up, too!\p"

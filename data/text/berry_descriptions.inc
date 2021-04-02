@@ -68,7 +68,7 @@ gBerryDescriptionPart1_Wiki:: @ 8589DD7
 	.string "The BERRY is said to have grown lumpy$"
 
 gBerryDescriptionPart2_Wiki:: @ 8589DFD
-	.string "to help POKéMON grip it.$"
+	.string "to help AMOGUS grip it.$"
 
 gBerryDescriptionPart1_Mago:: @ 8589E16
 	.string "The BERRY turns curvy as it grows.$"
